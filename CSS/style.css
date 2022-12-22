@@ -1,0 +1,97 @@
+.logoimg {
+    height: 25px;
+  }
+  
+  .topo {
+      background-color: rgb(255, 255, 255);
+  }
+  
+  .btns {
+      margin-top: 0px;
+      text-align: center;
+      float: left;
+      height: 50px;
+      width: 100px;
+      color: white;
+      padding-top: 30px;
+      opacity: 1;
+      text-decoration: none;
+  }
+  
+  .btnsright {
+    margin-top: 0px;
+    text-align: center;
+    float: right;
+    height: 50px;
+    width: 100px;
+    color: white;
+    padding-top: 34px;
+    opacity: 1;
+    text-decoration: none;
+  
+  }
+  
+  .btnsright:hover {
+      cursor:pointer;
+      color:black;
+      background-color: white ;
+      opacity: 1;
+  }
+  
+  .btns:hover{
+      cursor: pointer;
+      color: black;
+      background-color: white;
+      opacity: 1;
+  }
+  
+  body {
+      background-image: url("../imagem/imagem.jpeg");
+  }
+  
+  .area_introdução {
+      color:white;
+    width: 400px;
+    margin: auto;
+    padding: 115px;
+    opacity:1;
+  }
+  
+  .area_paragrafo {
+      color:white;
+    width: 400px;
+    margin: auto;
+    padding: 0px;
+    opacity:1;
+    text-align: center;
+  }
+  
+  .botao {
+    border: 2px solid #04AA6D;
+    color: #04AA6D;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 20px;
+    opacity: 1;
+  }
+  
+  .butaoverde {
+    border-color: #04AA6D;
+    color: green;
+  }
+  
+  .butaoverde:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .input_login {
+    width:100%;
+    height:40px;
+    margin-top:20px;
+    border-radius:20px;
+    border:1px solid silver;
+    text-align: center;
+  }
